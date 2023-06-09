@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><!-- XML implementation of Card Layout -->
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="200dp"
+    android:layout_height="230dp"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/plant_imageview"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:src="@drawable/monstera_10_crescent_white_21bd7c3e_c557_49d0_a757_6daa8e6c4ead"
+                android:padding="12dp"
+                android:background="@color/light_gray"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/plant_imageview"
+                android:layout_alignTop="@id/plant_imageview"
+                android:layout_alignRight="@id/plant_imageview"
+                android:layout_alignBottom="@id/plant_imageview"
+                android:layout_marginLeft="160dp"
+                android:layout_marginTop="10dp"
+
+                android:src="@drawable/favorite_icon"
+                />
+
+
+        </FrameLayout>
+
+
+
+
+        <TextView
+            android:id="@+id/idTVCourse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:textAlignment="center" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

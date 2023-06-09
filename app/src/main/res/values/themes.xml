@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GoingGreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#F1F1F1</item>
+        <item name="colorPrimaryVariant">#F1F1F1</item>
+        <item name="colorOnPrimary">#82B070</item>
+    </style>
+
+    <style name="Theme.Fab_Bottom_app_bar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#F1F1F1</item>
+        <item name="colorPrimaryVariant">#F1F1F1</item>
+        <item name="colorOnPrimary">#82B070</item>
+    </style>
+
+    <style name="Theme.GoingGreen" parent="Base.Theme.GoingGreen">
+    <item name="colorPrimary">#F1F1F1</item>
+    <item name="colorPrimaryVariant">#F1F1F1</item>
+    <item name="colorOnPrimary">#82B070</item>
+
+    </style>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Going Green</string>
+    <string name="home">Home</string>
+    <string name="feed">Feed</string>
+    <string name="scan">Scan</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+
+    <string name="promo">15% Off Discount</string>
+    <string name="min_purchase">with minimum purchase of ₱1,000</string>
+
+    <string name="all">All</string>
+    <string name="indoor">Indoor</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="flowers">Flowers</string>
+    <string name="trees">Trees</string>
+    <string name="herbs">Herbs</string>
+    <string name="bushes">Bushes</string>
+    <string name="ferns">Ferns</string>
+    <string name="grasses">Grasses</string>
+    <string name="mosses">Mosses</string>
+    <string name="shrub">Shrub</string>
+    <string name="aquatic">Aquatic Plant</string>
+    <string name="climbers">Climbers</string>
+    <string name="coniferns">Coniferns</string>
+
+
+    <string name="discover">Daily Discovery</string>
+
+    <string name="monstera">Monstera</string>
+    <string name="monstera_price">₱125</string>
+    <string name="monstera_sold">1.1K sold</string>
+
+
+
+
+
+</resources>
