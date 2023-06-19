@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/back"
+        android:icon="@drawable/back_arrow"
+        android:title="@string/back_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/box"
+        android:icon="@drawable/box_icon"
+        android:title="@string/box_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/checkbox"
+        android:icon="@drawable/checkbox_icon"
+        android:title="@string/checkbox_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/addbox"
+        android:icon="@drawable/addbox_icon"
+        android:title="@string/add_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/minusbox"
+        android:icon="@drawable/minusbox_icon"
+        android:title="@string/minus_icon"
+        >
+    </item>
+
+    <item
+        android:id="@+id/pin"
+        android:icon="@drawable/pin_icon"
+        android:title="@string/pin_icon"
+        >
+    </item>
+
+</menu>

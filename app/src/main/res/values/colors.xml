@@ -7,9 +7,19 @@
 
     <color name="jade_green">#82B070</color>
     <color name="dirty_white">#F1F1F1</color>
-    <color name="light_gray">#E7E7E7</color>
-    <color name="dark_gray">#B2B2B2</color>
     <color name="lighter_white">#FCFCFC</color>
+
+
+    <color name="darker_gray">#353535</color>
+    <color name="middark_gray">#616161</color>
+    <color name="mid_gray">#D6D6D6</color>
+    <color name="light_gray">#E7E7E7</color>
+
+    <color name="dark_gray">#B2B2B2</color>
+
+
+
+
 
 
 </resources>

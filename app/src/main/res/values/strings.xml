@@ -23,14 +23,59 @@
     <string name="shrub">Shrub</string>
     <string name="aquatic">Aquatic Plant</string>
     <string name="climbers">Climbers</string>
-    <string name="coniferns">Coniferns</string>
+    <string name="coniferns">Conifers</string>
 
 
     <string name="discover">Daily Discovery</string>
+    <string name="recommendations">Recommendations</string>
 
+
+    <string name="message">Message</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="check_out">Check Out</string>
+
+
+    <string name="product_details">Product Details</string>
     <string name="monstera">Monstera</string>
     <string name="monstera_price">₱125</string>
     <string name="monstera_sold">1.1K sold</string>
+    <string name="monstera_stars">4.5 (678)</string>
+    <string name="monstera_quantity">1</string>
+    <string name="about">About</string>
+    <string name="about_content">Native to the rainforests of Central America, the big, bold Monstera deliciosa plant is also known as the "split-leaf philodendron." This easy-to-grow climbing evergreen can be found in many designer spaces for its "wow" factor. \n\nIndoors, the plant has a moderate growth rate and can grow in height about 1 to 2 feet a year. Its naturally glossy large heart-shaped leaves have a characteristic split. You'll also spot intricate aerial roots growing out of the soil which benefit the plant by supporting the stems that hold leaves that can grow to 3 feet long. \n\nPlant outdoors in the right zone at any time during the year and it will also produce tannish-cream flowers pollinated by bees and edible juicy fruit with the combined flavor of pineapple and banana. However, fruiting is not common in houseplants. This beautiful plant can be toxic to pets.</string>
+
+
+
+    <string name="back_icon">Back</string>
+    <string name="box_icon">Box</string>
+    <string name="checkbox_icon">Checkbox</string>
+    <string name="add_icon">Add</string>
+    <string name="minus_icon">Minus</string>
+    <string name="pin_icon">Pin</string>
+
+    <string name="snakeplant">Snake Plant</string>
+    <string name="daylilies">Daylilies</string>
+    <string name="luckybamboo">Lucky Bamboo</string>
+
+    <string name="shopping_cart">Shopping Cart (123)</string>
+    <string name="items">(123)</string>
+    <string name="edit">Edit</string>
+
+    <string name="platform_voucher">Platform Voucher</string>
+    <string name="select">Select or Enter code</string>
+
+    <string name="total">Total: ₱1,169.75 \nSaved: ₱1,169.75</string>
+    <string name="check_out_1">Check Out (9)</string>
+
+    <string name="price1">₱ 138</string>
+    <string name="price2">₱ 125</string>
+    <string name="price3">₱ 250</string>
+    <string name="price4">₱ 100</string>
+
+    <string name="quantity1">2 </string>
+    <string name="quantity2">1 </string>
+    <string name="quantity3">3 </string>
+    <string name="quantity4">5 </string>
 
 
 
